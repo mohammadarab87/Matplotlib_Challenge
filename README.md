@@ -1,5 +1,6 @@
 # Matplotlib - The Power of Plots
 ### ***What good is data without a good plot to tell the story?***
+![chemistry-lab-apparatuses-500x500](https://user-images.githubusercontent.com/113273722/212503847-884f90bb-a65c-45a1-b7b7-51555811f341.jpg)
 
 ## Background
 This respository apply a Python Matplotlib to visualize a real-world pharmaceutical data. 
